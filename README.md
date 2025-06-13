@@ -83,3 +83,9 @@ Contains Kubernetes manifests for deploying the services, including:
 ### 4. Airflow Integration (airflow/)
 
 Contains Airflow DAGs and configurations for orchestrating the deployment process.
+
+## Useful links
+
+- [Github - qto-categorizer-ml](https://github.com/data-corentinv/qto-categorizer-ml)
+- [Github - qto-categorizer-api](https://github.com/data-corentinv/qto-categorizer-api)
+- [Github -qto-categorizer-depl](https://github.com/data-corentinv/qto-categorizer-depl)
