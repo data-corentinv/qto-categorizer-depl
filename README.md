@@ -15,7 +15,7 @@ As the workload takes the shape of (Docker) container images, this repository pr
 
 ## Deployment Workflow
 
-TODO: add diagram example
+![Depl workflow](_static/architecture.png)
 
 ### Artifact Management
 
